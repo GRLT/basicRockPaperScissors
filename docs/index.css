@@ -1,0 +1,28 @@
+button{
+    display: block;
+    width: 150px;
+    max-width: 150px;
+    margin-top: 5px;
+}
+
+label{
+    display: block;
+    max-width: 300px;
+    width: 300px;
+}
+
+div{
+   
+    position: absolute;
+    top: 50%;;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    height: 100%;
+    background-color: black;
+}
